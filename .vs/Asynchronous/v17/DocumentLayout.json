@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Asynchronous\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55A97816-D02C-4C19-8FEE-AC5CD338354F}|Demo3\\Demo3.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\asynchronous\\demo3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A97816-D02C-4C19-8FEE-AC5CD338354F}|Demo3\\Demo3.csproj|solutionrelative:demo3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A97816-D02C-4C19-8FEE-AC5CD338354F}|Demo3\\Demo3.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\asynchronous\\demo3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55A97816-D02C-4C19-8FEE-AC5CD338354F}|Demo3\\Demo3.csproj|solutionrelative:demo3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997CEE4B-BDCF-48EF-BD4A-BDC7B418DAB1}|Demo2\\Demo2.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\asynchronous\\demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997CEE4B-BDCF-48EF-BD4A-BDC7B418DAB1}|Demo2\\Demo2.csproj|solutionrelative:demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD49E86-2D56-444D-8D2D-517F0EFD2CFC}|Demo1\\Demo1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\asynchronous\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD49E86-2D56-444D-8D2D-517F0EFD2CFC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 471,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Asynchronous\\Demo3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Demo3\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Asynchronous\\Demo3\\MainWindow.xaml",
+              "RelativeToolTip": "Demo3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T08:36:29.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Asynchronous\\Demo3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo3\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Asynchronous\\Demo3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Demo3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:36:28.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Asynchronous\\Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Demo2\\Program.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Asynchronous\\Demo2\\Program.cs",
+              "RelativeToolTip": "Demo2\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:32:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Asynchronous\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Asynchronous\\Demo1\\Program.cs",
+              "RelativeToolTip": "Demo1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:27:16.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:54:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
