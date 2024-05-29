@@ -1,0 +1,28 @@
+D:\Visual\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.exe
+D:\Visual\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.deps.json
+D:\Visual\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.runtimeconfig.json
+D:\Visual\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.dll
+D:\Visual\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.pdb
+D:\Visual\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.AssemblyInfoInputs.cache
+D:\Visual\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.AssemblyInfo.cs
+D:\Visual\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.csproj.CoreCompileInputs.cache
+D:\Visual\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.dll
+D:\Visual\Week4\PLINQ-02\obj\Debug\net8.0\refint\PLINQ-02.dll
+D:\Visual\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.pdb
+D:\Visual\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.genruntimeconfig.cache
+D:\Visual\Week4\PLINQ-02\obj\Debug\net8.0\ref\PLINQ-02.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.exe
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.deps.json
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.runtimeconfig.json
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\bin\Debug\net8.0\PLINQ-02.pdb
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.AssemblyInfoInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.AssemblyInfo.cs
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.csproj.CoreCompileInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\obj\Debug\net8.0\refint\PLINQ-02.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.pdb
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\obj\Debug\net8.0\PLINQ-02.genruntimeconfig.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\PLINQ-02\obj\Debug\net8.0\ref\PLINQ-02.dll

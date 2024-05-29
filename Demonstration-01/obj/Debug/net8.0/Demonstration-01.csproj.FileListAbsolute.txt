@@ -1,0 +1,28 @@
+D:\Visual\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.exe
+D:\Visual\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.deps.json
+D:\Visual\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.runtimeconfig.json
+D:\Visual\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.dll
+D:\Visual\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.pdb
+D:\Visual\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.AssemblyInfoInputs.cache
+D:\Visual\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.AssemblyInfo.cs
+D:\Visual\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.csproj.CoreCompileInputs.cache
+D:\Visual\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.dll
+D:\Visual\Week4\Demonstration-01\obj\Debug\net8.0\refint\Demonstration-01.dll
+D:\Visual\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.pdb
+D:\Visual\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.genruntimeconfig.cache
+D:\Visual\Week4\Demonstration-01\obj\Debug\net8.0\ref\Demonstration-01.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.exe
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.deps.json
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.runtimeconfig.json
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\bin\Debug\net8.0\Demonstration-01.pdb
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.AssemblyInfoInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.AssemblyInfo.cs
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.csproj.CoreCompileInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\obj\Debug\net8.0\refint\Demonstration-01.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.pdb
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\obj\Debug\net8.0\Demonstration-01.genruntimeconfig.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Week4\Demonstration-01\obj\Debug\net8.0\ref\Demonstration-01.dll
